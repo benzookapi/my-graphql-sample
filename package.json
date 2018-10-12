@@ -1,0 +1,21 @@
+{
+  "name": "my-graphql-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^1.0.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.0",
+    "graphql-tag": "^2.10.0",
+    "graphql-tools": "^3.0.0"
+  }
+}
